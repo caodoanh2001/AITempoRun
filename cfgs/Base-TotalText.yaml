@@ -1,0 +1,4 @@
+_BASE_: "./Base-BAText.yaml"
+DATASETS:
+  TRAIN: ("TempoRun_train",)
+  TEST: ("TempoRun_val",)
