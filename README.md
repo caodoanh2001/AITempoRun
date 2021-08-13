@@ -69,7 +69,7 @@ list_txts = sorted(list_txts)
 f_submission = open('submission.txt', 'w')
 for _, line in enumerate(list_txts):
     f_submission.write(line + '\n') if _ != len(list_txts) -1 else f_submission.write(line)
-f.close()
+f_submission.close()
 
 print('Done! Thanks for waiting, the predict time is {}'.format(end_time - start_time))
 ```
