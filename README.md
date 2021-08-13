@@ -19,6 +19,10 @@ gdown --id 16prmMkZx9mTOygnRRKjM3Af_nUapcItc
 ```
 Bỏ vào thư mục models
 
+```
+mv finalModel.pth models
+```
+
 ## Test
 ```python
 from detectron2.engine.defaults import DefaultPredictor
