@@ -1,7 +1,12 @@
 # AITempoRun
 
 Repo này để giải quyết cuộc thi AI Tempo Run được tổ chức bởi CLB AI thuộc khoa Computer Science, UIT.
-Chúng tôi chuẩn bị file ipynb để chạy end-to-end.
+Ngoài việc xem hướng dẫn dưới đây, có thể vào file [Doanh_Truc_Submission.ipynb](Doanh_Truc_Submission.ipynb) để chạy end-to-end.
+Team name chúng tôi là AIBeginner, gồm các thành viên:
+- Bùi Cao Doanh 19521366
+- Trịnh Thị Thanh Trúc 19521059
+
+Chúng em xin cảm ơn Thầy Nguyên đã hỗ trợ rất nhiều khi tham gia cuộc thi này.
 
 ## Cài đặt
 Sau khi clone về:
